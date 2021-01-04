@@ -1,1 +1,1 @@
-<h1>Treino use GitHub</h1>
+<h1>Training for use GitHub</h1>
